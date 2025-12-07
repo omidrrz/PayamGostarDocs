@@ -6,7 +6,6 @@
 - [حذف داشبوردهای اضافی](#DeleteDashboard)
 ### مزیت استفاده از قابلیت چند داشبود {#MultiDashboardAdvantage}
 داشبوردها محیطی هستند که می‌توانید متناسب با نیاز خود، [ویجت‌های پرکاربرد](https://github.com/1stco/PayamGostarDocs/blob/master/Help/home/widget/WhatIsWidget-2.7.0.md) خود را به آن اضافه کنید، نام آن‌ها را تغییر دهید و رنگ مورد علاقه خود را برای هر ویجت در نظر بگیرید.<br>
-به کمک قابلیت **چند داشبورد**، می‌توانید برای اهداف مختلی که دارید، داشبورد جدیدی ایجاد کنید و در مواقع نیاز به آن‌ها رجوع کنید.
 
 
 یکی از استفاده‌های مهم از امکانات چند داشبورد، ساخت داشبوردهای مجزا از ترکیت [گزارش‌های پرکاربرد](https://github.com/1stco/PayamGostarDocs/blob/master/Help/Management-and-reports/FrequentlyUsedReports/FrequentlyUsedReportsIntroduction.md) است.<br>
